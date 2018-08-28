@@ -19,7 +19,8 @@
           (When uploading code to your Arduino Nano, keep the module disconnected.)
 
           Upload this code to your Arduino (make sure ATMega328P (Old Bootloader) is selected in the Tools/Processor: menu after selecting Arduino Nano from the Tools/Board: menu)
-
+          For some reason, Windows doesn't seem to want to upload code to any Arduino Nanos connected via USB 3. Find a 2.0 port if you're experiencing issues with connection.
+          
           Make sure Bluetooth is enabled on your iOS device, then open the ArduinoBlue app and Find and Connect to the device in the app - not the device's Bluetooth settings (it should show up as HC-08 or something like that).
 
           Go to the Command Tab at the bottom of the screen and send the character a. The status LED on the Arduino Nano should blink.
