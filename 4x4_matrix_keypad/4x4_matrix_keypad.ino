@@ -2,11 +2,11 @@
    Uses 4x4 Matrix Keypad to play music on https://onlinesequencer.net/
    
    ---
-   Requires: An Arduino Leonardo or compatible (https://bit.ly/2PiN6LN)
+   Requires: An Arduino Leonardo or compatible (https://bit.ly/leonardo-botinabox)
              A Computer with the Arduino IDE or Web Editor installed (https://www.arduino.cc/en/Main/Software)
-             A Micro USB Cable 
-             A 4x4 Matrix Keypad (https://bit.ly/2MYLtVV)
-             8 Male-to-Female Dupont Jumper Wires (https://ebay.to/2NunbAh)
+             A Micro USB Cable (https://bit.ly/microusb-botinabox)
+             A 4x4 Matrix Keypad (https://bit.ly/4x4-matrix-botinabox)
+             8 Male-to-Female Dupont Jumper Wires (https://bit.ly/dupont-mtf-botinabox)
              Arduino Keyboard Library (https://github.com/arduino-libraries/Keyboard)
              Arduino Keypad Library (https://playground.arduino.cc/code/keypad#Download)
    
