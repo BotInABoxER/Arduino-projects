@@ -4,11 +4,11 @@
    Uses an Active Buzzer Module to play a Chiptunes version of the Harry Potter Theme
    
    ---
-   Requires: An Arduino (Leonardo or compatible recommended (https://bit.ly/2PiN6LN))
+   Requires: An Arduino - Leonardo or compatible recommended (https://bit.ly/leonardo-botinabox)
              A Computer with the Arduino IDE or Web Editor installed (https://www.arduino.cc/en/Main/Software)
-             A Micro USB Cable 
-             Three Male-to-Female Dupont Jumper Wires (https://ebay.to/2NunbAh)
-             An Active Buzzer Module (https://bit.ly/2oirV0C)
+             A Micro USB Cable (https://bit.ly/microusb-cable-botinabox)
+             Three Male-to-Female Dupont Jumper Wires (https://bit.ly/dupont-mtf-botinabox)
+             An Active Buzzer Module (https://bit.ly/activebuzzer-botinabox)
 
    ---
    Setup: Connect the VCC pin on the Buzzer Module to the 3.3V pin on your Arduino.
