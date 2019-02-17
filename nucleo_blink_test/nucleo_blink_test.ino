@@ -3,9 +3,9 @@
    Blinks the Onboard LED of an STM32 Nucleo Board
    
    ---
-   Requires: An STM Nucleo Board (https://bit.ly/2PLL0VB)
-             A Computer with the Arduino IDE installed (https://www.arduino.cc/en/Main/Software
-             A Mini USB Cable 
+   Requires: An STM Nucleo Board (https://bit.ly/f446re-botinabox)
+             A Computer with the Arduino IDE installed (https://www.arduino.cc/en/Main/Software)
+             A Mini USB Cable (https://bit.ly/miniusb-botinabox)
              The ST Micro USB Driver (https://bit.ly/2MCx4zl)
              
 
