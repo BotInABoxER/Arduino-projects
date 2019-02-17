@@ -2,12 +2,12 @@
    This program is for testing out your HC-08, and can be used as a template for further prototyping. 
    
    ---
-   Requires: An Arduino Nano or compatible (https://bit.ly/2NuLga9)
+   Requires: An Arduino Nano or compatible (https://bit.ly/nano-botinabox)
              A Computer with the Arduino IDE or Web Editor installed (https://www.arduino.cc/en/Main/Software)
-             A Micro USB Cable 
-             Four Female-to-Female Dupont Jumper Wires (https://bit.ly/2ojCelc)
-             A HC-08 BLE Breakout Board (https://bit.ly/2oh661p)
-             (Optional) An Arduino Nano Sensor Shield (https://bit.ly/2NrvjkN)
+             A Micro USB Cable (https://bit.ly/microusb-cable-botinabox)
+             Four Female-to-Female Dupont Jumper Wires (https://bit.ly/dupont-ftf-botinabox)
+             A HC-08 BLE Breakout Board (https://bit.ly/hc08-botinabox)
+             (Optional) An Arduino Nano Sensor Shield (https://bit.ly/nano-senshield-botinabox)
              The SoftwareSerial Library for Arduino (https://www.arduino.cc/en/Reference/SoftwareSerial) - should be included with the Arduino IDE
              An iPad/iPhone with the ArduinoBlue app installed (https://itunes.apple.com/us/app/arduinoblue/id1340487989?mt=8)
 
